@@ -47,6 +47,7 @@ xbl_4.elf          /dev/block/bootdevice/by-name/xbl_4
 hyp.mbn            /dev/block/bootdevice/by-name/hyp
 
 # Task 2
+logo.img           /dev/block/bootdevice/by-name/logo
 exaid.img          /dev/block/bootdevice/by-name/exaid
 dtbo.img           /dev/block/bootdevice/by-name/dtbo
 vbmeta.img         /dev/block/bootdevice/by-name/vbmeta
